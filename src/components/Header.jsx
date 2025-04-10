@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/Header.css';
-import profilePic from './Assets/Tanmay.JPG';
+import profilePic from './Assets/Tanmay.jpg';
 import { FaSearch } from 'react-icons/fa';
 
 const Header = () => {
